@@ -135,14 +135,4 @@ License
 
 Contact
 - Maintainer: coeusonfire1205
-- Email: add-your-email@example.com (optional)
-
-Acknowledgements
-- Mention any libraries, datasets, or tutorials used.
-
-Notes / TODO
-- Replace placeholders with exact commands, metric numbers, and file names used in your repo.
-- If you want, I can:
-  - open a PR with this README change,
-  - create a branch and push the updated README,
-  - or just provide additional edits (shorter/longer) or badges (CI, PyPI, license).
+- Email: 24ucc201@lnmiit.ac.in (optional
